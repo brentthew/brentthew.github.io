@@ -1,0 +1,24 @@
+# Site settings
+title: Brent Thew
+email: brent@brentthew.com
+description: > # this means to ignore newlines until "baseurl:"
+  Computer Scientist from Sydney, Australia
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brentthew.com" # the base hostname & protocol for your site
+#url: "http://localhost:4000"
+
+twitter_username: 
+github_username: brentthew
+facebook_username: brentthew
+linkedin_username: brentthew
+bitbucket_username: brentthew
+
+resume: brentthew_cv.pdf
+avatar: brentthew.jpg
+
+# Build settings
+markdown: kramdown
+
+exclude: 
+ - Gemfile
+ - README.md
